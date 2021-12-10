@@ -144,14 +144,14 @@
     animation: ni 2s infinite ;
 
 }
-@keyframes f1{
+/* @keyframes f1{
     0%{
         transform: translateY(0rem);
     }
     100%{
         transform: translateY(-2rem);
     }
-}
+} */
 /* @keyframes th {
     0%
     {

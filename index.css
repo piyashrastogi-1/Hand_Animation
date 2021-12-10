@@ -134,7 +134,9 @@
 .finger4{
     animation: f1  2s infinite ;
 }
-
+.finger5{
+    animation: th 1s infinite;
+}
 .line{
     animation: li 2s infinite ;
 }
@@ -149,6 +151,16 @@
     100%{
         transform: translateY(-2rem);
     }
+}
+/* @keyframes th {
+    0%
+    {
+        transform: translate(0rem);
+    }
+    100%{
+        transform: translateZ();
+    }
+    
 }
 @keyframes li{
     0%{
@@ -167,7 +179,7 @@
     }
 }
 
-
+ */
 
 
 

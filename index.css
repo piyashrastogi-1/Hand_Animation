@@ -162,14 +162,14 @@
     }
     
 }
-@keyframes li{
+/* @keyframes li{
     0%{
         transform: translateY(0rem);
     }
     100%{
         transform: translateY(-1rem);
     }
-}
+} */
 /* @keyframes ni{
     0%{
         transform: translateY(0rem);

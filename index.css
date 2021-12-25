@@ -151,8 +151,8 @@
     100%{
         transform: translateY(-2rem);
     }
-}  */
- /* @keyframes th {
+} 
+ @keyframes th {
     0%
     {
         transform: translate(0rem);
@@ -160,66 +160,26 @@
     100%{
         transform: translateZ();
     }
-     */
+    
 }
-/* @keyframes li{
+@keyframes li{
     0%{
         transform: translateY(0rem);
     }
     100%{
         transform: translateY(-1rem);
     }
-} */
-/* @keyframes ni{
+}
+@keyframes ni{
     0%{
         transform: translateY(0rem);
     }
     100%{
         transform: translateY(-1rem);
     }
-} */
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ */
 
 
 
